@@ -40,6 +40,7 @@ git clone https://github.com/yaarian-om/OPEN-SCHOOL
     <img src="https://raw.githubusercontent.com/yaarian-om/SERVER/7f6d008f447b01db95b04828b0a663bba4feb2f7/1010110010/OPEN-SCHOOL/OPEN-SCHOOL_Cloning.svg" alt="OPEN-SCHOOL Clone" width="80%" height="250" alt="Clone Result"/>
 </p>
 <!-- Download -->
+
 - Download
   -  To download all the folders together manually, press download from Code, shown below
 <p align="center">
