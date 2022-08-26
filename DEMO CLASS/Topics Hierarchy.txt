@@ -1,0 +1,10 @@
+Topics Hierarchy
+	|-------- How to study
+	|-------- What is Programming
+	|-------- What is java
+	|-------- Applications of java
+	|-------- Get Started with the course
+	|		|---------------------- Introduction 
+	|					...........
+	|					...........
+	|-------- Where to find the notes
