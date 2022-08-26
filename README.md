@@ -29,6 +29,7 @@
 </p>
 <!-- Cloning -->
 - Cloning
+  
    - To download all the software please write in the CMD (If you've git, installed on your machine)
 
 ```dotnetcli
